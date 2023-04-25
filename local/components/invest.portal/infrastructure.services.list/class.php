@@ -24,7 +24,7 @@ class InvestPortalInfrastructureServicesList extends \CBitrixComponent implement
         parent::__construct($component);
     }
 
-    private $count = 5;
+    private $count = 666;
     private $arRadioFilter = ['MUNICIPAL'];
     private $arGuideFilter = ['MUNICIPAL'];
 
